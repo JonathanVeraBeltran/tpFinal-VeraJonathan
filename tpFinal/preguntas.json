@@ -1,0 +1,142 @@
+[
+    {
+        "pregunta": "¿Cuál es el segundo nombre de Milhouse Van Houten?",
+        "opciones": ["Charles", "Houdini", "Mussolini", "Michael"],
+        "respuestaCorrecta": "Mussolini"
+    },
+    {
+        "pregunta": "¿Cuál es el segundo nombre de Homero Simpson?",
+        "opciones": ["Jason", "Jay", "Jhon", "James"],
+        "respuestaCorrecta": "Jay"
+    },
+    {
+        "pregunta": "¿Cuál es el verdadero nombre del profesor Skinner?",
+        "opciones": ["Armando Barrera", "Marcos López", "Juan Rodríguez", "Humberto Gómez"],
+        "respuestaCorrecta": "Armando Barrera"
+    },
+    {
+        "pregunta": "¿Con qué droga fue medicado Bart?",
+        "opciones": ["Focusyn", "Nitrosyn", "Percosyn", "Litiosyn"],
+        "respuestaCorrecta": "Focusyn"
+    },
+    {
+        "pregunta": "¿Cómo se llama el perro de la familia Simpson?",
+        "opciones": ["Eddie", "Prócer", "Bola de nieve", "Ayudante de Santa"],
+        "respuestaCorrecta": "Ayudante de Santa"
+    },
+    {
+        "pregunta": "¿En qué año se vio al aire el primer episodio de los Simpsons?",
+        "opciones": ["1987", "1988", "1989", "1990"],
+        "respuestaCorrecta": "1989"
+    },
+    {
+        "pregunta": "¿Cuál es la marca de cerveza favorita de Homero?",
+        "opciones": ["Daff", "Duff", "Corona", "Buzz"],
+        "respuestaCorrecta": "Duff"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes músicos no apareció en algún episodio?",
+        "opciones": ["Bono (U2)", "Paul McCartney", "Jimi Hendrix", "Kurt Cobain"],
+        "respuestaCorrecta": "Kurt Cobain"
+    },
+    {
+        "pregunta": "¿Cuántos hijos/as tuvieron Apu y Manjula?",
+        "opciones": ["5", "6", "7", "8"],
+        "respuestaCorrecta": "8"
+    },
+    {
+        "pregunta": "¿Qué personaje está obsesionado con asesinar a Bart Simpson?",
+        "opciones": ["Bob Patiño", "Nelson", "Mr. Burns", "Snake"],
+        "respuestaCorrecta": "Bob Patiño"
+    },
+    {
+        "pregunta": "¿Cómo se llama la ciudad con la que Springfield disputa el árbol limonero?",
+        "opciones": ["Sheltville", "Shelterville", "Shelbyville", "Shelbirvielle"],
+        "respuestaCorrecta": "Shelbyville"
+    },
+    {
+        "pregunta": "En el episodio de la Isla del Dr. Hibbert, ¿En qué animal se convierte Homero ?",
+        "opciones": ["Lobo marino", "Morsa", "Foca", "Ballena"],
+        "respuestaCorrecta": "Morsa"
+    },
+    {
+        "pregunta": "¿Cuál es el nombre de la mamá de Homero?",
+        "opciones": ["Luisa", "Marie", "Mona", "Rosie"],
+        "respuestaCorrecta": "Mona"
+    },
+    {
+        "pregunta": "¿Cómo se llama el antiguo novio de Marge?",
+        "opciones": ["Artie Ziff", "Moe Szyslak", "Troy Mcclure", "Lenny"],
+        "respuestaCorrecta": "Artie Ziff"
+    },
+    {
+        "pregunta": "¿A qué se dedica el personaje Jeff Albertson ?",
+        "opciones": ["Vende ropa", "Vende comida", "Vende diarios", "Vende cómics o historietas"],
+        "respuestaCorrecta": "Vende cómics o historietas"
+    },
+    {
+        "pregunta": "¿Qué juego de consola roba Bart de la tienda?",
+        "opciones": ["Realm of Chaos", "Learning Golf", "Bonestorm", "Super FIght"],
+        "respuestaCorrecta": "Bonestorm"
+    },
+    {
+        "pregunta": "¿Qué frase dice Homero cuando se le mete una moneda dentro de la mano?",
+        "opciones": ["Ahorrar cada centavo", "Guardar cada centavo", "Exprimir cada centavo", "Sujetar cada centavo"],
+        "respuestaCorrecta": "Exprimir cada centavo"
+    },
+    {
+        "pregunta": "¿De cuántos yenes es el billete que Homero pierde cuando están en Japón?",
+        "opciones": ["100", "10.000", "100.000", "1.000.000"],
+        "respuestaCorrecta": "1.000.000"
+    },
+    {
+        "pregunta": "¿Cómo se llama el equipo de bolos donde juega Homero?",
+        "opciones": ["Pin Pals", "Pin Team", "Pin Friends", "Pin Duff"],
+        "respuestaCorrecta": "Pin Pals"
+    },
+    {
+        "pregunta": "¿Qué instrumento musical le regala Krusty a su hija tras darle a la mafia su violín?",
+        "opciones": ["Guitarra", "Flauta", "Bajo", "Ukelele"],
+        "respuestaCorrecta": "Ukelele"
+    },
+    {
+        "pregunta": "¿Cuál es el nombre del jugador de fútbol americano que pierde la pierna en el final?",
+        "opciones": ["Anton Lubchenko", "Henry Vladimir", "Marc Williams", "Jhon Roberitz"],
+        "respuestaCorrecta": "Anton Lubchenko"
+    },
+    {
+        "pregunta": "¿Qué artefacto quería crear Homero en el patio y que terminó convirtiéndose en arte?",
+        "opciones": ["Escalera", "Parrilla", "Tendedero", "Casa del árbol"],
+        "respuestaCorrecta": "Parrilla"
+    },
+    {
+        "pregunta": "¿Cuántos años tiene Lisa Simpson?",
+        "opciones": ["8", "9", "10", "11"],
+        "respuestaCorrecta": "8"
+    },
+    {
+        "pregunta": "¿Cómo se llaman los hijos de Ned Flanders?",
+        "opciones": ["Tommy y Daly", "Rafa y Martin", "Nelson y Jimbo", "Rod y Todd"],
+        "respuestaCorrecta": "Rod y Todd"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes presidentes de USA se muda cerca de los Simpsons?",
+        "opciones": ["Bill Clinton", "Barack Obama", "Donald Trump", "George Bush"],
+        "respuestaCorrecta": "George Bush"
+    },
+    {
+        "pregunta": "¿Cómo se llama el gemelo malvado de Bart?",
+        "opciones": ["Luis", "Hugo", "Rodolfo", "Gabriel"],
+        "respuestaCorrecta": "Hugo"
+    },
+    {
+        "pregunta": "¿Cómo se llama la hermana de Marge que estuvo con Troy Mcclure?",
+        "opciones": ["Patty", "Selma", "Jaqueline", "Telma"],
+        "respuestaCorrecta": "Selma"
+    },
+    {
+        "pregunta": "¿Cuántos kilos quiere conseguir Homero para trabajar desde la casa?",
+        "opciones": ["250lb/113kg", "300lb/135kg", "275lb/125kg", "325lb/147kg"],
+        "respuestaCorrecta": "300lb/135kg"
+    }
+]

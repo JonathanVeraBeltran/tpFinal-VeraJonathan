@@ -1,0 +1,54 @@
+body{
+    /* background-color: blanchedalmond; */
+    background: url(./assets/fondoSimpsons3.avif);
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+}
+
+#pregunta {
+    color: rgb(49, 49, 247);
+    margin-top: 50px;
+    font-size: 40px;
+    margin-bottom: 10px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+#opciones {
+    font-size: 30px;
+    color: rgb(49, 49, 247);
+    margin-top: 100px;
+    cursor: pointer;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+}
+
+.resultado {
+    margin-top: 20px;
+}
+
+.opcion{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    border: 1px solid lightblue;
+    border-radius: 10px;
+}
+
+#resultado{
+    font-size: 30px;
+    color: brown;
+    margin-left: 100px;
+    
+}
+
+.Swal.fire{
+    width: 10px;
+    height: 10px;
+}
+
+
