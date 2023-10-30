@@ -7,24 +7,26 @@ body{
 }
 
 #pregunta {
-    color: rgb(49, 49, 247);
-    margin-top: 50px;
-    font-size: 40px;
+    color: yellow;
+    margin-top: 40px;
+    font-size: 35px;
     margin-bottom: 10px;
     text-align: center;
-    text-decoration: underline;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
+    -webkit-text-stroke: 0.1px black;
 }
 
 #opciones {
-    font-size: 30px;
-    color: rgb(49, 49, 247);
-    margin-top: 100px;
+    font-size: 25px;
+    color: yellow;
+    margin-top: 40px;
     cursor: pointer;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 800;
+    font-weight: bold;
+    -webkit-text-stroke: 0.1px black;
 }
 
 .resultado {
@@ -50,5 +52,47 @@ body{
     width: 10px;
     height: 10px;
 }
+
+.tituloPrincipal{
+    font-size: 30px;
+    color: yellow;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    cursor: pointer;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    font-weight: bold;
+    -webkit-text-stroke: 0.1px black;
+}
+
+.menuPrincipal{
+    text-align: center;
+}
+
+.divMenu, .divReglas{
+    margin-bottom: 50px;
+    font-size: 30px;
+    color: yellow;
+    margin-top: 40px;
+    cursor: pointer;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    font-weight: bold;
+    -webkit-text-stroke: 0.1px black;
+    text-decoration: none;
+}
+
+.divs{
+    margin-bottom: 20px;
+}
+.divs:hover{
+    scale: 1.1;
+}
+
+
+
+
 
 
